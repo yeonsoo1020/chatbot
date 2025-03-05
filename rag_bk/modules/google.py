@@ -8,10 +8,7 @@ import os
 import streamlit as st
 from dotenv import load_dotenv
 
-api_key = st.secrets["general"]["SERPER_API_KEY"]
-
-# API KEY 정보로드
-# load_dotenv()
+api_key = st.secrets.get("SERPER_API_KEY")
 
 class GoogleSearchInput(BaseModel):
     """Google 검색 도구의 입력 모델"""
