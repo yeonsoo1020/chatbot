@@ -12,7 +12,7 @@ from rag_bk.modules.tools import WebSearchTool, retriever_tool
 from rag_bk.modules.agent import create_agent_executor
 
 # API KEY 정보로드
-load_dotenv()
+st.secrets.get("OPENAI_API_KEY")
 
 # 프로젝트 이름
 langsmith("챗봇상담")
