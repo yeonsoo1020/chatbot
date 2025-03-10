@@ -10,3 +10,6 @@
 Mindful Companion 챗봇 구현
 
 https://chatbot-mindful-companion.streamlit.app/
+
+
+![Image](https://github.com/user-attachments/assets/cc0521f1-6013-4372-ad7b-37abb720bd68)
