@@ -20,4 +20,4 @@ https://chatbot-mindful-companion.streamlit.app/
 - GPT-4o-mini API 활용
 
 
-<img src="https://github.com/user-attachments/assets/cc0521f1-6013-4372-ad7b-37abb720bd68" alt="챗봇 시스템 구조" width="600">
+<img src="https://github.com/user-attachments/assets/cc0521f1-6013-4372-ad7b-37abb720bd68" alt="챗봇 시스템 구조" width="800">
