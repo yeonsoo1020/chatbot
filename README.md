@@ -5,7 +5,8 @@
 
 - 진행기간 : `2025.01` ~ `2025.03`
 - 팀프로젝트(5인)
-
+- [구현과정](https://github.com/yeonsoo1020/chatbot/blob/main/%ED%8F%90%EC%95%94%20%EB%B0%8F%20%EC%9C%A0%EB%B0%A9%EC%95%94%20%EC%83%81%EB%8B%B4%20%EC%B1%97%EB%B4%87%20%EA%B5%AC%ED%98%84%EA%B3%BC%EC%A0%95%20%EC%A0%95%EB%A6%AC.pdf)
+  
 ## 📝 역할
 Mindful Companion 챗봇 구현
 
