@@ -10,7 +10,7 @@
 ## 📝 역할
 Mindful Companion 챗봇 구현
 
-https://mindful-companion.streamlit.app/
+https://chatbot-mindful-companion.streamlit.app/
 
 ## 🔍 기능 개요
 **RAG(Retrieval-Augmented Generation) 기법 적용**
